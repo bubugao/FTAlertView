@@ -1,5 +1,7 @@
 # FTAlertView使用
 
+![](https://github.com/bubugao/FTAlertView/raw/master/FTAlertView/hehe.gif)
+
 ```
     FTAlertView *alertView = [[FTAlertView alloc] init];
     // 设置提醒框大小
