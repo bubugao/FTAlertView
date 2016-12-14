@@ -1,6 +1,6 @@
 # FTAlertView使用
 
-![](https://github.com/bubugao/FTAlertView/raw/master/hehe.gif)
+![](https://github.com/bubugao/FTAlertView/raw/master/FTAlertView/FTAlertView/hehe.gif)
 
 ```
     FTAlertView *alertView = [[FTAlertView alloc] init];
