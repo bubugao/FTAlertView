@@ -9,7 +9,7 @@
     
     // 自定义提醒框内容视图
     UIView *customView = [[UIView alloc] initWithFrame:CGRectMake(0, 0, CGRectGetWidth([UIScreen mainScreen].bounds), 100)];
-    customView.backgroundColor = [UIColor orangeColor];
+    customView.backgroundColor = [UIColor groupTableViewBackgroundColor];
     [alertView customContentView:customView];
     
     // 设置对话框按钮 若不需要按钮 参数传nil即可
