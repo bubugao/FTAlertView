@@ -32,7 +32,7 @@
     // 设置按钮高度 按钮可以自定义
     alertView.buttonHeight = 50.0;
     
-    // 按钮点击时间响应 buttonIndex与数组titles索引一致
+    // 按钮点击事件响应 buttonIndex与数组titles索引一致
     [alertView clickButtonAction:^(NSInteger buttonIndex) {
         NSLog(@"---button %ld", buttonIndex);
     }];
